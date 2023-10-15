@@ -1,4 +1,4 @@
-package softblue.designpatterns;
+package br.com.kualit.designpatterns;
 
 public class App {
 
